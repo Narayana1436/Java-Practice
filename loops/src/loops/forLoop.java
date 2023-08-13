@@ -6,7 +6,7 @@ public class forLoop {
 		
       for(int i=4;i<=13;i++)
       {
-  System.out.println("dengay");
+  System.out.println("All out..");
 
 	}
 
