@@ -6,7 +6,7 @@ public class whileLopp {
 		int i=2;
 				while(i<=11)
 				{
-					System.out.println("Friends");
+					System.out.println("Friends.");
 					i++;
 				}
 
