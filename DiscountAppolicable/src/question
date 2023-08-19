@@ -1,4 +1,5 @@
-program should accept a double 'purchaseAmount' as input.
+Create a program that checks if ythe purchase is above $100and prints "discount Applicabe".The program should accept a double 
+             'purchaseAmount' as input.
 
 Boiler Plate Code:
 
