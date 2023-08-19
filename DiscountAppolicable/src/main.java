@@ -4,7 +4,7 @@ public class main {
 
 	public static void checkDiscount(double purchaseAmount) {
 		if(purchaseAmount>100) {
-			//yakuva thakuvaki less than or greather then vaste if vadutharu
+			
 		
 			System.out.println("Discount applicable");
 		}
