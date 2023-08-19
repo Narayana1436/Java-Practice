@@ -5,7 +5,7 @@ public class main {
 	public static void check(int grade) {
 		if(grade>50){
 System.out.println("pass");}
-		else {                        //pass or fail alla vachinapudu else vadalli    
+		else {                         
 			
 			System.out.println("fail");     
 		}
